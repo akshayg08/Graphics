@@ -1,0 +1,3 @@
+/root/20161035_Assignment1/build/CMakeFiles/rebuild_cache.dir
+/root/20161035_Assignment1/build/CMakeFiles/graphics_asgn1.dir
+/root/20161035_Assignment1/build/CMakeFiles/edit_cache.dir
